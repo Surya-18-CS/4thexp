@@ -1,0 +1,284 @@
+PS D:\4JN24CS176\LAB4\4thexp> git log --all --graph
+*   commit 1499fa279d1734d0af63efd60f47ed5f364f6526 (HEAD -> main)
+|\  Merge: 98bcdda b3324e4
+| | Author: Surya-18-CS <ajsurya87@gmail.com>
+| | Date:   Wed Oct 15 10:02:03 2025 +0530
+| |
+| |     Merge branch 'feature'
+| |
+| * commit b3324e49b5a6ab6416c33c88a81cd3f1a0a90281 (feature)
+| | Author: Surya-18-CS <ajsurya87@gmail.com>
+| | Date:   Wed Oct 15 09:57:50 2025 +0530
+| |
+| |     4.py commited
+| |
+| * commit abb79917796a98fd68f073b8a8cd5d5ee1f35867
+| | Author: Surya-18-CS <ajsurya87@gmail.com>
+| | Date:   Wed Oct 15 09:57:12 2025 +0530
+| |
+| |     3.py commited
+| |
+| * commit 91f7a05d9e16bdef4e3fab61594e387e5b510689
+| | Author: Surya-18-CS <ajsurya87@gmail.com>
+| | Date:   Wed Oct 15 09:56:56 2025 +0530
+| |
+| |     2.py commited
+| |
+| * commit f09f9023685fd13aa924820ec2e02e96f772524c
+| | Author: Surya-18-CS <ajsurya87@gmail.com>
+| | Date:   Wed Oct 15 09:56:44 2025 +0530
+| |
+| |     1.py commited
+| |
+| * commit cb8da3d978af9273033fced943859245f97dc115
+| | Author: Surya-18-CS <ajsurya87@gmail.com>
+| | Date:   Wed Oct 15 09:53:08 2025 +0530
+| |
+| |     4.py commited
+| |
+| * commit 9fa12eb0bc3a800c310e1f4781dc025825bfe236
+| | Author: Surya-18-CS <ajsurya87@gmail.com>
+| | Date:   Wed Oct 15 09:52:03 2025 +0530
+| |
+| |     3.py commited
+| |
+| * commit 5727c98d47c3909fb1203aaa9adf1fad7820efb7
+| | Author: Surya-18-CS <ajsurya87@gmail.com>
+| | Date:   Wed Oct 15 09:51:05 2025 +0530
+| |
+| |     2.py commited
+| |
+| * commit 5c76763ff3b1549980ee0970ba53686aaf81bded
+| | Author: Surya-18-CS <ajsurya87@gmail.com>
+| | Date:   Wed Oct 15 09:50:19 2025 +0530
+| |
+| |     1.py commited
+| |
+* | commit 98bcdda439e213f0efc230f48ca8363647f0111c
+|/  Author: Surya-18-CS <ajsurya87@gmail.com>
+|   Date:   Wed Oct 15 10:01:05 2025 +0530
+|
+|       5.py commited
+|
+* commit 95a686f208d4755aadfcf7708c9269dc48cb72be
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 15 09:20:14 2025 +0530
+|
+|     Create hello.py
+|
+* commit 17f9fe8dbd7bfba45f2fb87313d2f96b934f6ff9 (origin/main, origin/HEAD)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 15 09:00:50 2025 +0530
+|
+|     Create stacks.c
+|
+* commit 6a8f8e26dc652fc1db2b2ab795e4c9f2158c98c4
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 15 08:59:00 2025 +0530
+|
+|     Create stack.c
+|
+* commit a38b63787ddcc0cbb3d0f69ef1c18318fb7ac70e
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 15 08:42:06 2025 +0530
+|
+|     Add files via upload
+|
+* commit 47d627f47b2d32c3af5f9e7ee882bc1e26dbf9d2
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+~
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+~
+~
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+~
+~
+~
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+~
+~
+~
+~
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+| Author: Surya-18-CS <ajsurya87@gmail.com>
+| Date:   Wed Oct 8 10:20:28 2025 +0530
+|
+|     Create 1.c
+|
+* commit 1741924de9d50df1f81a3ba4a53d584f4dedcd13
+  Author: Surya-18-CS <ajsurya87@gmail.com>
+  Date:   Wed Oct 8 10:19:21 2025 +0530
+
+      Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
